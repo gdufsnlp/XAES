@@ -1,0 +1,9 @@
+.venv/
+.idea/
+__pycache__/
+
+/data/ori
+/data/raw
+/plms/
+
+checkpoint*
